@@ -1,0 +1,125 @@
+#perfil {
+    width: 250px;
+}
+
+#img-stack {
+    width: 200px;
+}
+
+.bg-primary {
+    background-color: #E5F8EC !important;
+}
+
+#head {
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+
+#botones_nav {
+    background-color: #5084eb;
+    border-color: black;
+}
+.nav-link {
+    color: black !important;
+}
+
+.col {
+    margin-top: 7px;
+}
+
+#proyecto-1 {
+    background-image: url('imagenes/CELULARESM.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 3px;
+}
+
+#p1 {
+    opacity: 90%;
+}
+
+#proyecto-2 {
+    background-image: url('imagenes/ENSAMBLEM.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 3px;
+}
+
+#proyecto-3 {
+    background-image: url('imagenes/PORTAFOLIOM.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    margin: 3px;
+}
+
+#proyecto-4 {
+    background-image: url('imagenes/NAUTICAM.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 3px
+}
+
+#proyecto-5 {
+    background-image: url('imagenes/MAQUINAM.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 3px
+}
+
+.titulo-proyecto {
+    text-shadow: 2px 5px 30px #000000;
+    text-align: center;
+}
+#lab {
+    padding: 10px;
+}
+
+.lead {
+    justify-content: center;
+    padding: 8px;
+}
+
+.carousel-item {
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #1c3c5e;
+    height: 5px;
+}
+
+.carousel-caption {
+    color: black;
+}
+
+#typewriter {
+    padding-top: 6px;
+}
+
+#botones_nav:hover {
+    background-color: #5b81cc;
+}
+
+#certif {
+    justify-content: space-between !important;
+    margin: 5px;
+    padding: 10px;
+}
+#oracle {
+    padding: 10px;
+    height: 156px;
+}
+.botones{
+    width: 10px;
+}
+.letras{
+    font-family: 'Mouse Memoirs', sans-serif;
+    text-size-adjust:inherit
+}
+#educacion{
+    background-color: #9ab9da !important;
+}
